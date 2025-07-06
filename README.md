@@ -136,9 +136,11 @@ Define los estilos visuales de las alertas (colores, animaciones, posición, etc
  
  1. Campo Vacio
  ![image](https://github.com/user-attachments/assets/96739e5b-bf84-433e-9a95-915ab76d3765)
-2. Eliminar tarea
+
+3. Eliminar tarea
  ![Captura de pantalla 2025-07-05 214717](https://github.com/user-attachments/assets/21883c8f-d690-4ab5-8e37-62228090125c)
-3. Agregar tarea
+
+5. Agregar tarea
  ![Captura de pantalla 2025-07-05 214730](https://github.com/user-attachments/assets/610e0479-4356-4281-b077-010faa097bfd)
 
 
