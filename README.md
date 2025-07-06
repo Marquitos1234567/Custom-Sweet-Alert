@@ -2,7 +2,10 @@
 Este componente resuelve la necesidad de mostrar alertas personalizadas y visualmente atractivas en una página web, permitiendo informar al usuario sobre el resultado de acciones (éxito, error, advertencia o información) de forma clara, rápida y fácil de cerrar.
 
 ### _INSTALACIÓN_
-Tenemos que crear un archivo html, crear una carpeta para el archivo javaScrip descargar lelos archivo y guardalo en su respectiva carpeta, dentro del archivo html tendremos que colocar la siguiente línea: "<script src="js/sweetcustom.js"></script>" y <link rel="stylesheet" href="css/sweetcustom.css"> para los estilos, esto puede ser dentro de las etiquetas "head" o "body"
+Tenemos que crear un archivo html, crear una carpeta para el archivo javaScrip descargar lelos archivo y }
+guardalo en su respectiva carpeta, dentro del archivo html tendremos que colocar la siguiente 
+línea: "<script src="js/sweetcustom.js"></script>" y <link rel="stylesheet" href="css/sweetcustom.css">
+para los estilos, esto puede ser dentro de las etiquetas "head" o "body"
 
 ### _USO_
 ### En html
