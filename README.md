@@ -137,12 +137,12 @@ Uso de las diferentes alertas en distintos escenarios:
 ---
 
 #### 1. Campo vacío  
-![Campo vacío](https://github.com/user-attachments/assets/96739e5b-bf84-433e-9a95-915ab76d3765)
+![Eliminar tarea](https://github.com/user-attachments/assets/21883c8f-d690-4ab5-8e37-62228090125c)
 
 ---
 
 #### 2. Eliminar tarea  
-![Eliminar tarea](https://github.com/user-attachments/assets/21883c8f-d690-4ab5-8e37-62228090125c)
+![Campo vacío](https://github.com/user-attachments/assets/96739e5b-bf84-433e-9a95-915ab76d3765)
 
 ---
 
