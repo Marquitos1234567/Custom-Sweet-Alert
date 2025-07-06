@@ -57,7 +57,8 @@ function obtenerIcono(tipo) {
         case "success": return "✔️";
         case "error": return "❌";
         case "warning": return "⚠️";
-        default: return "ℹ️";
+        case "info": return "ℹ️"; 
+        default: return "ℹ";
     }
 }
 ```
