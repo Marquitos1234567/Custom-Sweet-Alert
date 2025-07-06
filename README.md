@@ -132,3 +132,5 @@ Define los estilos visuales de las alertas (colores, animaciones, posición, etc
 }
 ```
  ### Librería en acción: 
+ ![image](https://github.com/user-attachments/assets/96739e5b-bf84-433e-9a95-915ab76d3765)
+
