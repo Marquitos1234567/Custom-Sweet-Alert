@@ -142,9 +142,10 @@ Uso de las diferentes alertas en distintos escenarios:
 ---
 
 #### 2. Eliminar tarea  
-![Campo vacío](https://github.com/user-attachments/assets/96739e5b-bf84-433e-9a95-915ab76d3765)
+![Agregar tarea](https://github.com/user-attachments/assets/610e0479-4356-4281-b077-010faa097bfd)
 
 ---
 
 #### 3. Agregar tarea  
-![Agregar tarea](https://github.com/user-attachments/assets/610e0479-4356-4281-b077-010faa097bfd)
+![Campo vacío](https://github.com/user-attachments/assets/96739e5b-bf84-433e-9a95-915ab76d3765)
+
